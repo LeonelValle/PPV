@@ -1,0 +1,6 @@
+﻿Rebuild started...
+1>------ Rebuild All started: Project: PPV-Projec, Configuration: Debug Any CPU ------
+2>------ Rebuild All started: Project: Desktop-PPV, Configuration: Debug Any CPU ------
+2>  Desktop-PPV -> C:\Users\leonel.valle\source\repos\PPV-Projec\Desktop-PPV\bin\Debug\Desktop-PPV.exe
+1>  PPV-Projec -> C:\Users\leonel.valle\source\repos\PPV-Projec\PPV-Projec\bin\PPV-Projec.dll
+========== Rebuild All: 2 succeeded, 0 failed, 0 skipped ==========
